@@ -1,5 +1,5 @@
 <div dir="rtl">
-<center>
+<align  center>
 # שיטות חישוביות בסטטיסטיקה ב'
 ## אתר הגיטהאב של הקורס
-<\center>
+<\align>
